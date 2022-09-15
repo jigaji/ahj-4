@@ -47,4 +47,5 @@
 </details>
 
 ---
+[![Build status](https://ci.appveyor.com/api/projects/status/70lv2rerkejf6y3g?svg=true)](https://ci.appveyor.com/project/jigaji/ahj-4)
 
